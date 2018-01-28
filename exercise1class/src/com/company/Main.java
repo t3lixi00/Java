@@ -22,12 +22,13 @@ public class Main {
 
         //The following is exercise without constructor
         //BankAccount rita = new BankAccount(); //This is calling to the constructor
-       // rita.setAccountNumber("1234567");
-       // rita.setBalance(2300);
-       // rita.setCustomerName("ritali");
-       // rita.setDeposit(2300);
-       // rita.setWithdraw(5000);
-       // rita.setEmail("rita@dd.com");
+        // rita.setAccountNumber("1234567");
+        //rita.setBalance(2300);
+        //rita.setCustomerName("ritali");
+        //rita.setDeposit(2300);
+        //rita.setWithdraw(5000);
+        //rita.setEmail("rita@dd.com");
+
 
         //using constructor, purpose: easy for developers to initialize the class
 

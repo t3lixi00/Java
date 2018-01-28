@@ -72,7 +72,7 @@ public class BankAccount {
         }
     }
  */
-public String getAccountNumber() {
+    public String getAccountNumber() {
         return accountNumber;
     }
 

@@ -33,6 +33,6 @@ public class Main {
 
         System.out.println(Tester3.getName());
         System.out.println(Tester3.getCreditLimit());
-        System.out.println(Tester3.getEmail());   
+        System.out.println(Tester3.getEmail());
     }
 }
